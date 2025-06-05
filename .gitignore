@@ -1,0 +1,12 @@
+# Object files
+*.o
+
+# Compiled binary
+st
+
+# rejects and originals
+*.rej
+*.orig
+
+# since config.def.h and config.h are identical
+config.h
